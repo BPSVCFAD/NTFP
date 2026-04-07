@@ -1,0 +1,219 @@
+[
+  {
+    "id": "ORD-2024-001",
+    "date": "2024-01-15",
+    "buyer": "Prakriti Naturals Pvt Ltd",
+    "gstin": "19AAPCP1234A1Z5",
+    "sku": "NTFP-TEJPATA-BN-25KG",
+    "skuName": "Bengal Tejpata (Bay Leaf) 25kg",
+    "quantity": 80,
+    "unit": "bags",
+    "totalAmount": 224000,
+    "status": "pending_payment",
+    "paymentStatus": "unpaid",
+    "utr": null,
+    "challanUploaded": false,
+    "deliveryDate": "2024-01-25",
+    "notes": "First order. Spice blend manufacturer from Kolkata.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-15T09:00:00", "by": "buyer" },
+      { "status": "pending_payment", "timestamp": "2024-01-15T09:05:00", "by": "system" }
+    ]
+  },
+  {
+    "id": "ORD-2024-002",
+    "date": "2024-01-14",
+    "buyer": "Vanika Agro Industries",
+    "gstin": "20BBBCV5678B1Z2",
+    "sku": "NTFP-SALSEED-JH-50KG",
+    "skuName": "Sal Seeds (Shorea robusta) 50kg",
+    "quantity": 60,
+    "unit": "bags",
+    "totalAmount": 111000,
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "utr": "UTRNEFT2024011401234",
+    "challanUploaded": false,
+    "deliveryDate": "2024-01-22",
+    "notes": "",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-14T10:00:00", "by": "buyer" },
+      { "status": "confirmed", "timestamp": "2024-01-14T11:30:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-003",
+    "date": "2024-01-13",
+    "buyer": "Aranya Organics Collective",
+    "gstin": "21CCCCA9012C1Z8",
+    "sku": "NTFP-MAHUAFLWR-OD-25KG",
+    "skuName": "Mahua Flowers (Dried) 25kg",
+    "quantity": 40,
+    "unit": "bags",
+    "totalAmount": 128000,
+    "status": "packed",
+    "paymentStatus": "paid",
+    "utr": "UTRNEFT2024011302345",
+    "challanUploaded": true,
+    "deliveryDate": "2024-01-20",
+    "notes": "Cold storage facility at Bhubaneswar. Deliver before 6pm.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-13T08:00:00", "by": "buyer" },
+      { "status": "confirmed", "timestamp": "2024-01-13T09:00:00", "by": "admin" },
+      { "status": "packed", "timestamp": "2024-01-13T14:00:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-004",
+    "date": "2024-01-12",
+    "buyer": "Northeast Naturals Exim",
+    "gstin": "18DDDCN3456D1Z1",
+    "sku": "NTFP-WILDHONEY-NE-500ML",
+    "skuName": "Wild Forest Honey 500ml (Northeast)",
+    "quantity": 500,
+    "unit": "bottles",
+    "totalAmount": 210000,
+    "status": "delivered",
+    "paymentStatus": "paid",
+    "utr": "UTRNEFT2024011203456",
+    "challanUploaded": true,
+    "deliveryDate": "2024-01-18",
+    "notes": "Export-grade consignment for Singapore buyer.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-12T07:00:00", "by": "buyer" },
+      { "status": "confirmed", "timestamp": "2024-01-12T08:30:00", "by": "admin" },
+      { "status": "packed", "timestamp": "2024-01-12T13:00:00", "by": "admin" },
+      { "status": "delivered", "timestamp": "2024-01-18T16:00:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-005",
+    "date": "2024-01-11",
+    "buyer": "Sahyadri Herb Traders",
+    "gstin": "27EEECS7890E1Z4",
+    "sku": "NTFP-AMLA-DR-OD-25KG",
+    "skuName": "Amla (Indian Gooseberry) Dried 25kg",
+    "quantity": 30,
+    "unit": "bags",
+    "totalAmount": 135000,
+    "status": "rejected",
+    "paymentStatus": "unpaid",
+    "utr": null,
+    "challanUploaded": false,
+    "deliveryDate": null,
+    "rejectionReason": "Requested batch from Kalahandi not available this season. Current stock is from Koraput which does not match buyer's sourcing compliance requirement.",
+    "notes": "",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-11T11:00:00", "by": "buyer" },
+      { "status": "rejected", "timestamp": "2024-01-11T14:00:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-006",
+    "date": "2024-01-10",
+    "buyer": "Prakriti Naturals Pvt Ltd",
+    "gstin": "19AAPCP1234A1Z5",
+    "sku": "NTFP-KARANJSEED-WB-50KG",
+    "skuName": "Karanj Seeds (Pongamia) 50kg",
+    "quantity": 40,
+    "unit": "bags",
+    "totalAmount": 48000,
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "utr": "UTRNEFT2024011004567",
+    "challanUploaded": false,
+    "deliveryDate": "2024-01-16",
+    "notes": "Biofuel research batch.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-10T09:00:00", "by": "buyer" },
+      { "status": "confirmed", "timestamp": "2024-01-10T10:00:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-007",
+    "date": "2024-01-16",
+    "buyer": "Jungle Bazaar Foods LLP",
+    "gstin": "16FFFCJ1122F1Z6",
+    "sku": "NTFP-BAMBOSHT-NE-10KG",
+    "skuName": "Bamboo Shoots Dried 10kg (Northeast)",
+    "quantity": 200,
+    "unit": "packs",
+    "totalAmount": 220000,
+    "status": "pending_payment",
+    "paymentStatus": "pending_verification",
+    "utr": "UTRNEFT2024011605678",
+    "challanUploaded": false,
+    "deliveryDate": "2024-01-26",
+    "notes": "Gourmet food brand. Requires food-grade invoice.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-16T08:00:00", "by": "buyer" },
+      { "status": "pending_payment", "timestamp": "2024-01-16T08:05:00", "by": "system" }
+    ]
+  },
+  {
+    "id": "ORD-2024-008",
+    "date": "2024-01-09",
+    "buyer": "Vanaushadhi Pharma Pvt Ltd",
+    "gstin": "07GGGCV3344G1Z9",
+    "sku": "NTFP-WILDTURMERIC-NE-25KG",
+    "skuName": "Wild Forest Turmeric (Rhizome) 25kg",
+    "quantity": 20,
+    "unit": "bags",
+    "totalAmount": 116000,
+    "status": "packed",
+    "paymentStatus": "paid",
+    "utr": "UTRNEFT2024010906789",
+    "challanUploaded": false,
+    "deliveryDate": "2024-01-14",
+    "notes": "Requires COA with curcumin % for each batch.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-09T10:00:00", "by": "buyer" },
+      { "status": "confirmed", "timestamp": "2024-01-09T11:00:00", "by": "admin" },
+      { "status": "packed", "timestamp": "2024-01-09T15:00:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-009",
+    "date": "2024-01-08",
+    "buyer": "Aranya Organics Collective",
+    "gstin": "21CCCCA9012C1Z8",
+    "sku": "NTFP-MAHUASEED-OD-50KG",
+    "skuName": "Mahua Seeds (Ilupa) 50kg",
+    "quantity": 50,
+    "unit": "bags",
+    "totalAmount": 130000,
+    "status": "delivered",
+    "paymentStatus": "paid",
+    "utr": "UTRNEFT2024010807890",
+    "challanUploaded": true,
+    "deliveryDate": "2024-01-15",
+    "notes": "",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-08T09:00:00", "by": "buyer" },
+      { "status": "confirmed", "timestamp": "2024-01-08T10:00:00", "by": "admin" },
+      { "status": "packed", "timestamp": "2024-01-08T14:00:00", "by": "admin" },
+      { "status": "delivered", "timestamp": "2024-01-15T11:00:00", "by": "admin" }
+    ]
+  },
+  {
+    "id": "ORD-2024-010",
+    "date": "2024-01-17",
+    "buyer": "Jungle Bazaar Foods LLP",
+    "gstin": "16FFFCJ1122F1Z6",
+    "sku": "NTFP-MUSHROOM-NE-5KG",
+    "skuName": "Wild Forest Mushrooms Dried 5kg",
+    "quantity": 80,
+    "unit": "packs",
+    "totalAmount": 304000,
+    "status": "pending_payment",
+    "paymentStatus": "unpaid",
+    "utr": null,
+    "challanUploaded": false,
+    "deliveryDate": "2024-01-28",
+    "notes": "Urgent order for restaurant chain supply.",
+    "statusHistory": [
+      { "status": "placed", "timestamp": "2024-01-17T07:30:00", "by": "buyer" },
+      { "status": "pending_payment", "timestamp": "2024-01-17T07:35:00", "by": "system" }
+    ]
+  }
+]

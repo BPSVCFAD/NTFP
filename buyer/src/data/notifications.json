@@ -1,0 +1,52 @@
+[
+  {
+    "id": "NOTIF-001",
+    "userId": "USR-001",
+    "type": "payment_reminder",
+    "title": "Payment Pending — Action Required",
+    "message": "Order ORD-2024-001 for Bengal Tejpata (Bay Leaf) 25kg is awaiting advance payment of ₹2,24,000. Please upload payment screenshot to confirm your order.",
+    "orderId": "ORD-2024-001",
+    "read": false,
+    "createdAt": "2024-01-15T09:10:00"
+  },
+  {
+    "id": "NOTIF-002",
+    "userId": "USR-001",
+    "type": "order_status",
+    "title": "Order Confirmed",
+    "message": "Your order ORD-2024-006 for Karanj Seeds (Pongamia) 50kg has been confirmed by BPSV. Expected delivery by 16 Jan 2024.",
+    "orderId": "ORD-2024-006",
+    "read": false,
+    "createdAt": "2024-01-10T10:05:00"
+  },
+  {
+    "id": "NOTIF-003",
+    "userId": "USR-001",
+    "type": "new_sku",
+    "title": "New Product Available",
+    "message": "Wild Forest Mushrooms Dried 5kg from Nagaland is now available in the catalogue. Limited stock — MOQ 20 packs.",
+    "orderId": null,
+    "read": true,
+    "createdAt": "2024-01-13T10:00:00"
+  },
+  {
+    "id": "NOTIF-004",
+    "userId": "USR-001",
+    "type": "enquiry_resolved",
+    "title": "Enquiry Resolved",
+    "message": "Your enquiry about compliance documentation for Bengal Tejpata has been resolved. BPSV team will share FSSAI and COO documents shortly.",
+    "orderId": null,
+    "read": true,
+    "createdAt": "2024-01-16T15:30:00"
+  },
+  {
+    "id": "NOTIF-005",
+    "userId": "USR-001",
+    "type": "order_status",
+    "title": "Payment Verified",
+    "message": "Payment for order ORD-2024-006 (Karanj Seeds) has been verified. Order is confirmed and being prepared for dispatch.",
+    "orderId": "ORD-2024-006",
+    "read": true,
+    "createdAt": "2024-01-10T12:00:00"
+  }
+]

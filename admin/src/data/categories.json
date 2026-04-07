@@ -1,0 +1,12 @@
+[
+  { "id": "CAT-001", "name": "Forest Botanicals", "description": "Dried leaves, bark, and botanical products harvested from forest ecosystems", "active": true, "skuCount": 2 },
+  { "id": "CAT-002", "name": "Seeds & Nuts", "description": "Forest seeds and nuts used in food, oil extraction, and industrial applications", "active": true, "skuCount": 3 },
+  { "id": "CAT-003", "name": "Flowers & Buds", "description": "Dried forest flowers used in food, beverages, and traditional medicine", "active": true, "skuCount": 1 },
+  { "id": "CAT-004", "name": "Honey & Bee Products", "description": "Wild forest honey and bee-derived products from natural hive collections", "active": true, "skuCount": 1 },
+  { "id": "CAT-005", "name": "Bamboo Products", "description": "Processed bamboo shoots and bamboo-derived food and craft materials", "active": true, "skuCount": 1 },
+  { "id": "CAT-006", "name": "Medicinal Herbs", "description": "Dried herbs and plant parts used in traditional and Ayurvedic medicine", "active": true, "skuCount": 1 },
+  { "id": "CAT-007", "name": "Roots & Rhizomes", "description": "Forest-sourced roots, rhizomes, and tubers with culinary and medicinal value", "active": true, "skuCount": 1 },
+  { "id": "CAT-008", "name": "Mushrooms & Fungi", "description": "Wild-harvested and sun-dried forest mushrooms", "active": true, "skuCount": 1 },
+  { "id": "CAT-009", "name": "Dried Fruits & Berries", "description": "Forest fruits dried and processed for wholesale distribution", "active": true, "skuCount": 1 },
+  { "id": "CAT-010", "name": "Gums & Resins", "description": "Lac, shellac, and natural gum resins harvested from forest trees", "active": false, "skuCount": 0 }
+]
